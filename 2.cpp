@@ -1,4 +1,4 @@
-//61-panupong-Lab820
+//37-panupong-Lab820
 #include <stdio.h>
 int main(){
     int i=1, n;
